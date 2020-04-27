@@ -10,7 +10,7 @@ end
 def loop_message_n_times (message, integer)
   
    
-  while == integer
+  while == integer do
  puts message
    
   end
